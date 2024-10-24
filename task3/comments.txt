@@ -1,0 +1,6 @@
+ihor: comment
+vasia: hello
+petia: hi, hello, good moning
+lena: privet
+ola: i am ola
+test: long text
