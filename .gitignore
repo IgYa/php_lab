@@ -21,3 +21,5 @@
 /fuel/app/config/crypt.php
 
 .idea
+.env
+/vendor
